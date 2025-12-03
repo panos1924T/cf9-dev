@@ -19,6 +19,9 @@ public class Product {
         this.stock = stock;
     }
 
+    public Product(long l, String juiceA, String orangeJuice, double v, int i, boolean b) {
+    }
+
     public long getId() {
         return id;
     }
