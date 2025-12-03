@@ -10,17 +10,6 @@ public class Main {
 
         Customer customer = new Customer();
 
-
-
-
-
-
-
-
-
-
-
-
         int price;
 
         User user = new User();
